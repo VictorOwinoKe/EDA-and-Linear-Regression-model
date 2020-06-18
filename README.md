@@ -7,3 +7,9 @@ and basic patient health risk metrics at the time of hospitalization.
 
 Objective
 To build a web application where demographic and health information of a patient is entered in a web form to predict charges.
+
+
+Dataset for this project can be retrieved from Kaggle using the link:
+
+https://www.kaggle.com/mirichoi0218/insurance#insurance.csv
+
